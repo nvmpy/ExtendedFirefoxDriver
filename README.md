@@ -1,6 +1,6 @@
 # ExtendedFirefoxDriver
 
-An extention of the Selenium webdriver.Firefox class that adds a method for capturing user input.
+An extension of the Selenium webdriver.Firefox class that adds a method for capturing user input.
 
 There's a step-by-step walkthrough of the process and some usage guidance over at my blog:
 
