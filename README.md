@@ -13,6 +13,8 @@ Requires the selenium library.
     pip install selenium
 	
 
+For use with the [Firefox geckodriver available here](https://github.com/mozilla/geckodriver/releases).
+
 ### Usage
 
 Create an instance of the `ExtendedFirefoxDriver` class instead of `webdriver.Firefox` and use the `capture_input` method with the following arguments.
